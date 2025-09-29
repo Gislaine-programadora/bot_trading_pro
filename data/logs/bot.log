@@ -1,0 +1,218 @@
+# ConteÃºdo simulado do bot.log
+[2025-09-29 18:30:00] INFO: Bot iniciado com capital $30,000.00
+[2025-09-29 18:30:15] DEBUG: BTC/USDT Price: 68,500.23
+[2025-09-29 18:30:15] SIGNAL: BUY - Alocando 0.01 BTC
+[2025-09-29 18:30:16] ORDER: Market order 'BUY' (ID: 12345) submitted.
+[2025-09-29 18:30:17] TRADE: Trade preenchido. PosiÃ§Ã£o aberta. SL em 67,000.00.2025-09-29 19:54:14,445 - INFO - [BINANCE] Conexão estabelecida com sucesso.
+2025-09-29 19:54:14,984 - INFO - 
+--- CORE DO BOT PRONTO PARA INICIAR ---
+2025-09-29 19:54:15,276 - INFO - 
+>>> BOT ATIVO. INICIANDO CICLOS DE TRADING...
+2025-09-29 19:54:33,685 - INFO - API REAL: Preço de BTC/USDT: 114145.00
+2025-09-29 19:54:33,688 - INFO - Monitorando BTC/USDT @ $114,145.00
+2025-09-29 19:54:34,016 - ERROR - ERRO (Fundos Insuficientes): binance Account has insufficient balance for requested action.
+2025-09-29 19:54:34,373 - INFO - API REAL: Preço de ETH/USDT: 4218.91
+2025-09-29 19:54:34,375 - INFO - Monitorando ETH/USDT @ $4,218.91
+2025-09-29 19:54:34,670 - ERROR - ERRO (Fundos Insuficientes): binance Account has insufficient balance for requested action.
+2025-09-29 19:54:35,064 - INFO - API REAL: Preço de SOL/USDT: 213.59
+2025-09-29 19:54:35,067 - INFO - Monitorando SOL/USDT @ $213.59
+2025-09-29 19:54:35,350 - ERROR - ERRO (Fundos Insuficientes): binance Account has insufficient balance for requested action.
+2025-09-29 19:54:45,849 - INFO - API REAL: Preço de BTC/USDT: 114160.21
+2025-09-29 19:54:45,851 - INFO - Monitorando BTC/USDT @ $114,160.21
+2025-09-29 19:54:46,179 - ERROR - ERRO (Fundos Insuficientes): binance Account has insufficient balance for requested action.
+2025-09-29 19:54:46,786 - INFO - API REAL: Preço de ETH/USDT: 4219.26
+2025-09-29 19:54:46,789 - INFO - Monitorando ETH/USDT @ $4,219.26
+2025-09-29 19:54:47,140 - ERROR - ERRO (Fundos Insuficientes): binance Account has insufficient balance for requested action.
+2025-09-29 19:54:47,599 - INFO - API REAL: Preço de SOL/USDT: 213.58
+2025-09-29 19:54:47,725 - INFO - Monitorando SOL/USDT @ $213.58
+2025-09-29 19:54:48,383 - ERROR - ERRO (Fundos Insuficientes): binance Account has insufficient balance for requested action.
+2025-09-29 19:54:58,675 - INFO - API REAL: Preço de BTC/USDT: 114160.20
+2025-09-29 19:54:58,677 - INFO - Monitorando BTC/USDT @ $114,160.20
+2025-09-29 19:54:58,978 - ERROR - ERRO (Fundos Insuficientes): binance Account has insufficient balance for requested action.
+2025-09-29 19:54:59,342 - INFO - API REAL: Preço de ETH/USDT: 4219.27
+2025-09-29 19:54:59,355 - INFO - Monitorando ETH/USDT @ $4,219.27
+2025-09-29 19:54:59,949 - ERROR - ERRO (Fundos Insuficientes): binance Account has insufficient balance for requested action.
+2025-09-29 19:55:00,231 - INFO - API REAL: Preço de SOL/USDT: 213.58
+2025-09-29 19:55:00,236 - INFO - Monitorando SOL/USDT @ $213.58
+2025-09-29 19:55:01,275 - ERROR - ERRO (Fundos Insuficientes): binance Account has insufficient balance for requested action.
+2025-09-29 19:55:11,557 - INFO - API REAL: Preço de BTC/USDT: 114170.46
+2025-09-29 19:55:11,665 - INFO - Monitorando BTC/USDT @ $114,170.46
+2025-09-29 19:55:11,962 - ERROR - ERRO (Fundos Insuficientes): binance Account has insufficient balance for requested action.
+2025-09-29 19:55:12,291 - INFO - API REAL: Preço de ETH/USDT: 4220.67
+2025-09-29 19:55:12,651 - INFO - Monitorando ETH/USDT @ $4,220.67
+2025-09-29 19:55:12,969 - ERROR - ERRO (Fundos Insuficientes): binance Account has insufficient balance for requested action.
+2025-09-29 19:55:13,427 - INFO - API REAL: Preço de SOL/USDT: 213.64
+2025-09-29 19:55:13,432 - INFO - Monitorando SOL/USDT @ $213.64
+2025-09-29 19:55:14,836 - ERROR - ERRO (Fundos Insuficientes): binance Account has insufficient balance for requested action.
+2025-09-29 19:55:26,607 - INFO - API REAL: Preço de BTC/USDT: 114197.23
+2025-09-29 19:55:26,610 - INFO - Monitorando BTC/USDT @ $114,197.23
+2025-09-29 19:55:26,898 - ERROR - ERRO (Fundos Insuficientes): binance Account has insufficient balance for requested action.
+2025-09-29 19:55:27,354 - INFO - API REAL: Preço de ETH/USDT: 4223.59
+2025-09-29 19:55:27,372 - INFO - Monitorando ETH/USDT @ $4,223.59
+2025-09-29 19:55:27,863 - ERROR - ERRO (Fundos Insuficientes): binance Account has insufficient balance for requested action.
+2025-09-29 19:55:28,372 - INFO - API REAL: Preço de SOL/USDT: 213.78
+2025-09-29 19:55:28,834 - INFO - Monitorando SOL/USDT @ $213.78
+2025-09-29 19:55:29,124 - ERROR - ERRO (Fundos Insuficientes): binance Account has insufficient balance for requested action.
+2025-09-29 19:55:39,673 - INFO - API REAL: Preço de BTC/USDT: 114213.99
+2025-09-29 19:55:40,003 - INFO - Monitorando BTC/USDT @ $114,213.99
+2025-09-29 19:55:41,034 - ERROR - ERRO (Fundos Insuficientes): binance Account has insufficient balance for requested action.
+2025-09-29 19:55:41,338 - INFO - API REAL: Preço de ETH/USDT: 4224.67
+2025-09-29 19:55:41,563 - INFO - Monitorando ETH/USDT @ $4,224.67
+2025-09-29 19:55:42,773 - ERROR - ERRO (Fundos Insuficientes): binance Account has insufficient balance for requested action.
+2025-09-29 19:55:43,168 - INFO - API REAL: Preço de SOL/USDT: 213.78
+2025-09-29 19:55:45,196 - INFO - Monitorando SOL/USDT @ $213.78
+2025-09-29 19:55:45,491 - ERROR - ERRO (Fundos Insuficientes): binance Account has insufficient balance for requested action.
+2025-09-29 19:55:56,246 - INFO - API REAL: Preço de BTC/USDT: 114213.99
+2025-09-29 19:55:56,253 - INFO - Monitorando BTC/USDT @ $114,213.99
+2025-09-29 19:55:56,551 - ERROR - ERRO (Fundos Insuficientes): binance Account has insufficient balance for requested action.
+2025-09-29 19:55:56,989 - INFO - API REAL: Preço de ETH/USDT: 4227.00
+2025-09-29 19:55:57,221 - INFO - Monitorando ETH/USDT @ $4,227.00
+2025-09-29 19:55:57,527 - ERROR - ERRO (Fundos Insuficientes): binance Account has insufficient balance for requested action.
+2025-09-29 19:55:57,860 - INFO - API REAL: Preço de SOL/USDT: 213.83
+2025-09-29 19:55:57,893 - INFO - Monitorando SOL/USDT @ $213.83
+2025-09-29 19:55:58,645 - ERROR - ERRO (Fundos Insuficientes): binance Account has insufficient balance for requested action.
+2025-09-29 19:56:08,955 - INFO - API REAL: Preço de BTC/USDT: 114214.00
+2025-09-29 19:56:08,959 - INFO - Monitorando BTC/USDT @ $114,214.00
+2025-09-29 19:56:09,250 - ERROR - ERRO (Fundos Insuficientes): binance Account has insufficient balance for requested action.
+2025-09-29 19:56:09,842 - INFO - API REAL: Preço de ETH/USDT: 4230.41
+2025-09-29 19:56:09,852 - INFO - Monitorando ETH/USDT @ $4,230.41
+2025-09-29 19:56:10,149 - ERROR - ERRO (Fundos Insuficientes): binance Account has insufficient balance for requested action.
+2025-09-29 19:56:10,442 - INFO - API REAL: Preço de SOL/USDT: 213.89
+2025-09-29 19:56:10,444 - INFO - Monitorando SOL/USDT @ $213.89
+2025-09-29 19:56:10,965 - ERROR - ERRO (Fundos Insuficientes): binance Account has insufficient balance for requested action.
+2025-09-29 19:56:21,466 - INFO - API REAL: Preço de BTC/USDT: 114213.99
+2025-09-29 19:56:21,474 - INFO - Monitorando BTC/USDT @ $114,213.99
+2025-09-29 19:56:22,718 - ERROR - ERRO (Fundos Insuficientes): binance Account has insufficient balance for requested action.
+2025-09-29 19:56:22,998 - INFO - API REAL: Preço de ETH/USDT: 4229.15
+2025-09-29 19:56:23,000 - INFO - Monitorando ETH/USDT @ $4,229.15
+2025-09-29 19:56:23,280 - ERROR - ERRO (Fundos Insuficientes): binance Account has insufficient balance for requested action.
+2025-09-29 19:56:23,572 - INFO - API REAL: Preço de SOL/USDT: 213.83
+2025-09-29 19:56:23,576 - INFO - Monitorando SOL/USDT @ $213.83
+2025-09-29 19:56:23,872 - ERROR - ERRO (Fundos Insuficientes): binance Account has insufficient balance for requested action.
+2025-09-29 19:56:34,249 - INFO - API REAL: Preço de BTC/USDT: 114213.99
+2025-09-29 19:56:34,252 - INFO - Monitorando BTC/USDT @ $114,213.99
+2025-09-29 19:56:34,553 - ERROR - ERRO (Fundos Insuficientes): binance Account has insufficient balance for requested action.
+2025-09-29 19:56:34,841 - INFO - API REAL: Preço de ETH/USDT: 4227.92
+2025-09-29 19:56:35,001 - INFO - Monitorando ETH/USDT @ $4,227.92
+2025-09-29 19:56:35,558 - ERROR - ERRO (Fundos Insuficientes): binance Account has insufficient balance for requested action.
+2025-09-29 19:56:35,849 - INFO - API REAL: Preço de SOL/USDT: 213.80
+2025-09-29 19:56:35,871 - INFO - Monitorando SOL/USDT @ $213.80
+2025-09-29 19:56:36,152 - ERROR - ERRO (Fundos Insuficientes): binance Account has insufficient balance for requested action.
+2025-09-29 19:56:46,442 - INFO - API REAL: Preço de BTC/USDT: 114205.35
+2025-09-29 19:56:46,459 - INFO - Monitorando BTC/USDT @ $114,205.35
+2025-09-29 19:56:46,770 - ERROR - ERRO (Fundos Insuficientes): binance Account has insufficient balance for requested action.
+2025-09-29 19:56:47,090 - INFO - API REAL: Preço de ETH/USDT: 4227.20
+2025-09-29 19:56:47,092 - INFO - Monitorando ETH/USDT @ $4,227.20
+2025-09-29 19:56:47,379 - ERROR - ERRO (Fundos Insuficientes): binance Account has insufficient balance for requested action.
+2025-09-29 19:56:47,748 - INFO - API REAL: Preço de SOL/USDT: 213.77
+2025-09-29 19:56:47,754 - INFO - Monitorando SOL/USDT @ $213.77
+2025-09-29 19:56:48,056 - ERROR - ERRO (Fundos Insuficientes): binance Account has insufficient balance for requested action.
+2025-09-29 19:56:58,348 - INFO - API REAL: Preço de BTC/USDT: 114205.35
+2025-09-29 19:56:58,369 - INFO - Monitorando BTC/USDT @ $114,205.35
+2025-09-29 19:56:59,603 - ERROR - ERRO (Fundos Insuficientes): binance Account has insufficient balance for requested action.
+2025-09-29 19:57:00,160 - INFO - API REAL: Preço de ETH/USDT: 4227.20
+2025-09-29 19:57:00,316 - INFO - Monitorando ETH/USDT @ $4,227.20
+2025-09-29 19:57:00,612 - ERROR - ERRO (Fundos Insuficientes): binance Account has insufficient balance for requested action.
+2025-09-29 19:57:01,185 - INFO - API REAL: Preço de SOL/USDT: 213.74
+2025-09-29 19:57:01,195 - INFO - Monitorando SOL/USDT @ $213.74
+2025-09-29 19:57:01,898 - ERROR - ERRO (Fundos Insuficientes): binance Account has insufficient balance for requested action.
+2025-09-29 19:57:12,373 - INFO - API REAL: Preço de BTC/USDT: 114200.00
+2025-09-29 19:57:12,376 - INFO - Monitorando BTC/USDT @ $114,200.00
+2025-09-29 19:57:13,209 - ERROR - ERRO (Fundos Insuficientes): binance Account has insufficient balance for requested action.
+2025-09-29 19:57:13,501 - INFO - API REAL: Preço de ETH/USDT: 4226.60
+2025-09-29 19:57:13,664 - INFO - Monitorando ETH/USDT @ $4,226.60
+2025-09-29 19:57:14,515 - ERROR - ERRO (Fundos Insuficientes): binance Account has insufficient balance for requested action.
+2025-09-29 19:57:14,803 - INFO - API REAL: Preço de SOL/USDT: 213.74
+2025-09-29 19:57:14,814 - INFO - Monitorando SOL/USDT @ $213.74
+2025-09-29 19:57:15,855 - ERROR - ERRO (Fundos Insuficientes): binance Account has insufficient balance for requested action.
+2025-09-29 19:57:26,141 - INFO - API REAL: Preço de BTC/USDT: 114200.00
+2025-09-29 19:57:26,144 - INFO - Monitorando BTC/USDT @ $114,200.00
+2025-09-29 19:57:26,568 - ERROR - ERRO (Fundos Insuficientes): binance Account has insufficient balance for requested action.
+2025-09-29 19:57:26,867 - INFO - API REAL: Preço de ETH/USDT: 4226.73
+2025-09-29 19:57:26,872 - INFO - Monitorando ETH/USDT @ $4,226.73
+2025-09-29 19:57:27,713 - ERROR - ERRO (Fundos Insuficientes): binance Account has insufficient balance for requested action.
+2025-09-29 19:57:28,078 - INFO - API REAL: Preço de SOL/USDT: 213.74
+2025-09-29 19:57:28,119 - INFO - Monitorando SOL/USDT @ $213.74
+2025-09-29 19:57:29,141 - ERROR - ERRO (Fundos Insuficientes): binance Account has insufficient balance for requested action.
+2025-09-29 19:57:39,934 - INFO - API REAL: Preço de BTC/USDT: 114197.31
+2025-09-29 19:57:39,938 - INFO - Monitorando BTC/USDT @ $114,197.31
+2025-09-29 19:57:40,243 - ERROR - ERRO (Fundos Insuficientes): binance Account has insufficient balance for requested action.
+2025-09-29 19:57:40,651 - INFO - API REAL: Preço de ETH/USDT: 4226.74
+2025-09-29 19:57:40,664 - INFO - Monitorando ETH/USDT @ $4,226.74
+2025-09-29 19:57:41,092 - ERROR - ERRO (Fundos Insuficientes): binance Account has insufficient balance for requested action.
+2025-09-29 19:57:41,372 - INFO - API REAL: Preço de SOL/USDT: 213.73
+2025-09-29 19:57:41,379 - INFO - Monitorando SOL/USDT @ $213.73
+2025-09-29 19:57:41,678 - ERROR - ERRO (Fundos Insuficientes): binance Account has insufficient balance for requested action.
+2025-09-29 19:57:52,044 - INFO - API REAL: Preço de BTC/USDT: 114197.32
+2025-09-29 19:57:52,047 - INFO - Monitorando BTC/USDT @ $114,197.32
+2025-09-29 19:57:52,348 - ERROR - ERRO (Fundos Insuficientes): binance Account has insufficient balance for requested action.
+2025-09-29 19:57:52,635 - INFO - API REAL: Preço de ETH/USDT: 4227.02
+2025-09-29 19:57:52,660 - INFO - Monitorando ETH/USDT @ $4,227.02
+2025-09-29 19:57:53,783 - ERROR - ERRO (Fundos Insuficientes): binance Account has insufficient balance for requested action.
+2025-09-29 19:57:54,300 - INFO - API REAL: Preço de SOL/USDT: 213.70
+2025-09-29 19:57:54,510 - INFO - Monitorando SOL/USDT @ $213.70
+2025-09-29 19:57:56,822 - ERROR - ERRO (Fundos Insuficientes): binance Account has insufficient balance for requested action.
+2025-09-29 19:58:07,481 - INFO - API REAL: Preço de BTC/USDT: 114197.32
+2025-09-29 19:58:07,486 - INFO - Monitorando BTC/USDT @ $114,197.32
+2025-09-29 19:58:07,781 - ERROR - ERRO (Fundos Insuficientes): binance Account has insufficient balance for requested action.
+2025-09-29 19:58:08,135 - INFO - API REAL: Preço de ETH/USDT: 4227.30
+2025-09-29 19:58:08,137 - INFO - Monitorando ETH/USDT @ $4,227.30
+2025-09-29 19:58:08,422 - ERROR - ERRO (Fundos Insuficientes): binance Account has insufficient balance for requested action.
+2025-09-29 19:58:08,714 - INFO - API REAL: Preço de SOL/USDT: 213.63
+2025-09-29 19:58:08,721 - INFO - Monitorando SOL/USDT @ $213.63
+2025-09-29 19:58:09,272 - ERROR - ERRO (Fundos Insuficientes): binance Account has insufficient balance for requested action.
+2025-09-29 19:58:19,559 - INFO - API REAL: Preço de BTC/USDT: 114189.81
+2025-09-29 19:58:19,561 - INFO - Monitorando BTC/USDT @ $114,189.81
+2025-09-29 19:58:19,844 - ERROR - ERRO (Fundos Insuficientes): binance Account has insufficient balance for requested action.
+2025-09-29 19:58:20,160 - INFO - API REAL: Preço de ETH/USDT: 4227.31
+2025-09-29 19:58:20,163 - INFO - Monitorando ETH/USDT @ $4,227.31
+2025-09-29 19:58:20,456 - ERROR - ERRO (Fundos Insuficientes): binance Account has insufficient balance for requested action.
+2025-09-29 19:58:20,747 - INFO - API REAL: Preço de SOL/USDT: 213.63
+2025-09-29 19:58:20,749 - INFO - Monitorando SOL/USDT @ $213.63
+2025-09-29 19:58:21,546 - ERROR - ERRO (Fundos Insuficientes): binance Account has insufficient balance for requested action.
+2025-09-29 19:58:31,855 - INFO - API REAL: Preço de BTC/USDT: 114189.80
+2025-09-29 19:58:31,859 - INFO - Monitorando BTC/USDT @ $114,189.80
+2025-09-29 19:58:32,172 - ERROR - ERRO (Fundos Insuficientes): binance Account has insufficient balance for requested action.
+2025-09-29 19:58:32,586 - INFO - API REAL: Preço de ETH/USDT: 4227.32
+2025-09-29 19:58:32,589 - INFO - Monitorando ETH/USDT @ $4,227.32
+2025-09-29 19:58:33,000 - ERROR - ERRO (Fundos Insuficientes): binance Account has insufficient balance for requested action.
+2025-09-29 19:58:33,304 - INFO - API REAL: Preço de SOL/USDT: 213.66
+2025-09-29 19:58:33,310 - INFO - Monitorando SOL/USDT @ $213.66
+2025-09-29 19:58:34,175 - ERROR - ERRO (Fundos Insuficientes): binance Account has insufficient balance for requested action.
+2025-09-29 19:58:44,468 - INFO - API REAL: Preço de BTC/USDT: 114189.80
+2025-09-29 19:58:44,471 - INFO - Monitorando BTC/USDT @ $114,189.80
+2025-09-29 19:58:44,763 - ERROR - ERRO (Fundos Insuficientes): binance Account has insufficient balance for requested action.
+2025-09-29 19:58:45,070 - INFO - API REAL: Preço de ETH/USDT: 4227.33
+2025-09-29 19:58:45,072 - INFO - Monitorando ETH/USDT @ $4,227.33
+2025-09-29 19:58:45,360 - ERROR - ERRO (Fundos Insuficientes): binance Account has insufficient balance for requested action.
+2025-09-29 19:58:45,646 - INFO - API REAL: Preço de SOL/USDT: 213.63
+2025-09-29 19:58:45,647 - INFO - Monitorando SOL/USDT @ $213.63
+2025-09-29 19:58:45,934 - ERROR - ERRO (Fundos Insuficientes): binance Account has insufficient balance for requested action.
+2025-09-29 19:58:56,220 - INFO - API REAL: Preço de BTC/USDT: 114189.80
+2025-09-29 19:58:56,222 - INFO - Monitorando BTC/USDT @ $114,189.80
+2025-09-29 19:58:56,515 - ERROR - ERRO (Fundos Insuficientes): binance Account has insufficient balance for requested action.
+2025-09-29 19:58:56,835 - INFO - API REAL: Preço de ETH/USDT: 4227.33
+2025-09-29 19:58:56,841 - INFO - Monitorando ETH/USDT @ $4,227.33
+2025-09-29 19:58:57,429 - ERROR - ERRO (Fundos Insuficientes): binance Account has insufficient balance for requested action.
+2025-09-29 19:58:58,621 - INFO - API REAL: Preço de SOL/USDT: 213.62
+2025-09-29 19:58:58,940 - INFO - Monitorando SOL/USDT @ $213.62
+2025-09-29 19:59:00,239 - ERROR - ERRO (Fundos Insuficientes): binance Account has insufficient balance for requested action.
+2025-09-29 19:59:11,378 - INFO - API REAL: Preço de BTC/USDT: 114189.80
+2025-09-29 19:59:11,381 - INFO - Monitorando BTC/USDT @ $114,189.80
+2025-09-29 19:59:11,667 - ERROR - ERRO (Fundos Insuficientes): binance Account has insufficient balance for requested action.
+2025-09-29 19:59:11,968 - INFO - API REAL: Preço de ETH/USDT: 4227.33
+2025-09-29 19:59:11,974 - INFO - Monitorando ETH/USDT @ $4,227.33
+2025-09-29 19:59:12,143 - INFO - 
+Interrupção do usuário (Ctrl+C).
+2025-09-29 19:59:12,151 - INFO - 
+<<< BOT PARADO. Encerrando operações...
+2025-09-29 20:22:21,156 - INFO - [BINANCE] Conexão estabelecida com sucesso.
+2025-09-29 20:22:21,576 - INFO - [BINANCE] Conexão estabelecida com sucesso.
+2025-09-29 20:22:21,935 - INFO - Servidor Flask inicializado. Acesse http://127.0.0.1:5000
+2025-09-29 20:23:35,333 - INFO - Comando de START recebido via Web. Bot thread iniciada.
+2025-09-29 20:29:51,402 - INFO - Comando de STOP recebido via Web. Sinal enviado.
+2025-09-29 20:30:00,265 - INFO - Comando de START recebido via Web. Bot thread iniciada.
+2025-09-29 20:30:08,106 - INFO - Comando de STOP recebido via Web. Sinal enviado.
+2025-09-29 20:30:08,956 - INFO - Comando de START recebido via Web. Bot thread iniciada.
+2025-09-29 20:30:16,627 - INFO - Comando de STOP recebido via Web. Sinal enviado.
+2025-09-29 20:30:24,667 - INFO - Comando de START recebido via Web. Bot thread iniciada.

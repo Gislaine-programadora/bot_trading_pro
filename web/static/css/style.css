@@ -1,0 +1,26 @@
+/* Estilo customizado (Dark Mode) */
+body {
+    background-color: #1a1a2e; /* Fundo escuro */
+    color: #ffffff;
+}
+.card {
+    background-color: #27284b; /* Cartões levemente mais claros */
+    border: none;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.4);
+}
+.header-status {
+    font-weight: bold;
+    padding: 5px 15px;
+    border-radius: 5px;
+}
+.status-active { background-color: #28a745; } /* Verde para Ativo */
+.status-inactive { background-color: #dc3545; } /* Vermelho para Inativo */
+.log-box {
+    height: 300px;
+    overflow-y: scroll;
+    background-color: #0d0d1a;
+    font-family: monospace;
+    font-size: 0.85em;
+    padding: 10px;
+    border-radius: 5px;
+}

@@ -1,0 +1,8 @@
+# Biblioteca para conectar a diversas corretoras (Binance, Mercado Bitcoin, etc.)
+ccxt
+# Biblioteca para manipulação de dados de tempo e tabelas (crucial para trading)
+pandas
+# Usada para gerenciar variáveis de ambiente de forma segura
+python-dotenv
+# ... (dependências existentes: ccxt, pandas, python-dotenv)
+Flask
