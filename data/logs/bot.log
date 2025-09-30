@@ -216,3 +216,8 @@ Interrupção do usuário (Ctrl+C).
 2025-09-29 20:30:08,956 - INFO - Comando de START recebido via Web. Bot thread iniciada.
 2025-09-29 20:30:16,627 - INFO - Comando de STOP recebido via Web. Sinal enviado.
 2025-09-29 20:30:24,667 - INFO - Comando de START recebido via Web. Bot thread iniciada.
+2025-09-29 21:38:51,873 - INFO - [BINANCE] Conexão estabelecida com sucesso.
+2025-09-29 21:38:53,637 - INFO - [BINANCE] Conexão estabelecida com sucesso.
+2025-09-29 21:38:55,692 - INFO - Servidor Flask inicializado. Acesse http://127.0.0.1:5000
+2025-09-29 21:52:58,625 - INFO - Comando de START recebido via Web. Bot thread iniciada.
+2025-09-29 21:56:51,146 - INFO - Comando de START recebido via Web. Bot thread iniciada.

@@ -1,0 +1,22 @@
+{
+  "name": "cointgpt-pro-trading-bot",
+  "version": "1.0.0",
+  "description": "Robô de trading algorítmico para Binance, construído em Python com interface de controle web (Flask).",
+  "main": "web_app.py",
+  "scripts": {
+    "start": "python web_app.py",
+    "build": "pip install -r requirements.txt",
+    "serve": "gunicorn web_app:app -b 0.0.0.0:$PORT",
+    "test": "echo \"Execute python main.py para modo terminal\""
+  },
+  "keywords": [
+    "trading-bot",
+    "python",
+    "flask",
+    "binance",
+    "algoritmo",
+    "render"
+  ],
+  "author": "Gislaine",
+  "license": "ISC"
+}
