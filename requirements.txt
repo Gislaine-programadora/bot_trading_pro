@@ -7,3 +7,4 @@ python-dotenv
 # ... (dependências existentes: ccxt, pandas, python-dotenv)
 Flask
 gunicorn
+flask-cors
