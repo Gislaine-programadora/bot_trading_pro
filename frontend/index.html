@@ -1,24 +1,27 @@
 <!DOCTYPE html>
-<html lang="pt-BR">
+<html lang="pt-br">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>CoinGPT Pro - Dashboard</title>
-  <link rel="stylesheet" href="css/style.css">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CoinGPT Pro</title>
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
-  <h1>🚀 CoinGPT Pro</h1>
-  <p>Status do bot:</p>
-  <pre id="status">A carregar...</pre>
+    <div class="container">
+        <h1>🚀 CoinGPT Pro</h1>
+        <p>Status do bot: <span id="bot-status" class="status loading">A carregar...</span></p>
 
-  <!-- Botões de controlo -->
-  <div class="controls">
-    <button onclick="iniciarBot()">▶️ Iniciar Bot</button>
-    <button onclick="pararBot()">⏹️ Parar Bot</button>
-    <button onclick="enviarOrdem()">💹 Enviar Ordem Teste</button>
-  </div>
+        <div class="buttons">
+            <button id="start-btn">▶️ Iniciar Bot</button>
+            <button id="stop-btn">⏹️ Parar Bot</button>
+            <button id="order-btn">💹 Enviar Ordem Teste</button>
+        </div>
 
-  <script src="js/app.js"></script>
+        <div id="log"></div>
+    </div>
+
+    <script src="script.js"></script>
 </body>
 </html>
+
 

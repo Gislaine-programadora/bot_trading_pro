@@ -51,5 +51,17 @@ async function enviarOrdem() {
   }
 }
 
+async function startBot() {
+  const response = await fetch("https://seu-backend-python.com/start");
+  const data = await response.json();
+  console.log(data);
+}
+
+async function stopBot() {
+  const response = await fetch("https://seu-backend-python.com/stop");
+  const data = await response.json();
+  console.log(data);
+}
+
 // Carregar status ao abrir página
 carregarStatus();

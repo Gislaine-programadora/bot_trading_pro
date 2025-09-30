@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "builds": [
+    { "src": "frontend/**/*.html", "use": "@vercel/static" },
+    { "src": "api/*.py", "use": "@vercel/python" }
+  ],
+  "routes": [
+    { "src": "/(.*)", "dest": "/frontend/index.html" },
+    { "src": "/api/main", "dest": "/api/main.py" },
+    { "src": "/api/web_app", "dest": "/api/web_app.py" },
+    { "src": "/api/web_app2", "dest": "/api/web_app2.py" },
+    { "src": "/api/web_app3", "dest": "/api/web_app3.py" }
+  ]
+}
